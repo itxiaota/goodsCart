@@ -1,0 +1,110 @@
+{
+  "status": 200,
+  "message": "获取购物车列表数据成功！",
+  "list": [
+    {
+      "id": 1,
+      "goods_name": "无印良品 MUJI 女式 便携式 无领 羽绒夹克 BDC31C2A ",
+      "goods_img": "https://m.360buyimg.com/babel/jfs/t1/20918/23/19090/58897/636e7895Ecad4a0d1/2daa82b58169e47f.jpg.webp",
+      "goods_price": 398,
+      "goods_count": 1,
+      "goods_state": false
+    },
+    {
+      "id": 2,
+      "goods_name": "波司登羽绒服女秋冬时尚运动廊形宽松加厚中长款保暖防寒防风90绒冬装外套 亮红1299",
+      "goods_img": "https://m.360buyimg.com/babel/jfs/t1/2487/3/20716/78282/636e7e0fE626b8bab/e3c7193cbd06d94c.jpg.webp",
+      "goods_price": 1224,
+      "goods_count": 1,
+      "goods_state": true
+    },
+    {
+      "id": 3,
+      "goods_name": "雅柔2022新款秋季高领条纹纯色长袖修身保暖百搭针织打底衫女",
+      "goods_img": "https://m.360buyimg.com/babel/jfs/t1/100227/30/32796/33277/632416bcE6b9cb510/612f9750ff3b19bf.jpg.webp",
+      "goods_price": 105,
+      "goods_count": 1,
+      "goods_state": false
+    },
+    {
+      "id": 4,
+      "goods_name": "【高支羊毛】恩裳COVER秋季2022新款绵羊毛100%双面呢简约大气品质感毛呢大衣 藏蓝 ",
+      "goods_img": "https://m.360buyimg.com/babel/jfs/t1/220514/7/23521/52944/636f3b60E32da97cc/09cae558bb4d6f85.jpg.webp",
+      "goods_price": 1428,
+      "goods_count": 2,
+      "goods_state": true
+    },
+    {
+      "id": 5,
+      "goods_name": "雅戈尔 衬衫男士 2022春秋季青年男休闲正装衬衫 GLVP19001BBA 纯白 39",
+      "goods_img": "https://m.360buyimg.com/babel/jfs/t1/127476/29/12317/145085/5f5897e0Ed578857f/20e668b3de9d0f31.jpg.webp",
+      "goods_price": 209,
+      "goods_count": 1,
+      "goods_state": false
+    },
+    {
+      "id": 6,
+      "goods_name": "雅鹿官方羽绒服女中长款冬新款新国标羽绒白鸭绒韩版修身显瘦连帽过膝外套 黑色YF601V11040 170",
+      "goods_img": "https://m.360buyimg.com/babel/jfs/t1/195155/26/30960/64121/636e6ebaE2acc6481/26cb9b7448404da5.jpg.webp",
+      "goods_price": 718,
+      "goods_count": 2,
+      "goods_state": true
+    },
+    {
+      "id": 7,
+      "goods_name": "蕉下手套女秋冬加绒骑行骑车毛线滑雪手套保暖手套男士手套棉手套飞盘手套送女友礼物可触屏防滑 云碳黑",
+      "goods_img": "https://m.360buyimg.com/babel/jfs/t1/95124/26/26167/122005/636e29caE52e0514e/96f098a4df7eb25d.jpg.webp",
+      "goods_price": 890,
+      "goods_count": 1,
+      "goods_state": true
+    },
+    {
+      "id": 8,
+      "goods_name": "秋季新款时尚气质宽松肌理感束脚长款休闲裤女|12231D007 灰色 ",
+      "goods_img": "https://m.360buyimg.com/babel/jfs/t1/85784/39/20711/86672/636e91eeE958e32a1/b6e8f3251e2de5f9.jpg.webp",
+      "goods_price": 399,
+      "goods_count": 2,
+      "goods_state": false
+    },
+    {
+      "id": 9,
+      "goods_name": "茵曼2022秋女装新款休闲显瘦宽松百搭舒适松紧腰高腰萝卜牛仔裤子【18236387】 牛仔蓝",
+      "goods_img": "https://m.360buyimg.com/babel/jfs/t1/130610/39/33046/162699/6369cd40E3b1638e1/437545449abb4f54.jpg.webp",
+      "goods_price": 719,
+      "goods_count": 2,
+      "goods_state": true
+    },
+    {
+      "id": 10,
+      "goods_name": "YINER音儿商场同款女装2021冬季新款羊毛含羊绒双面呢大衣 米色 46",
+      "goods_img": "https://m.360buyimg.com/babel/jfs/t1/109889/11/35267/87590/636eb899E451a9994/494dd9a657e6b2de.jpg.webp",
+      "goods_price": 2390,
+      "goods_count": 2,
+      "goods_state": false
+    },
+    {
+      "id": 11,
+      "goods_name": "蕉下 智能发热气绒围巾女士围脖冬季新款护颈椎U型加热防寒保暖红色围巾生日礼物送女朋友 暖霁系列 原露米",
+      "goods_img": "https://m.360buyimg.com/babel/jfs/t1/184669/25/30438/73350/636e7a15Ef11a9e3b/3be3d459a9589182.jpg.webp",
+      "goods_price": 299,
+      "goods_count": 2,
+      "goods_state": false
+    },
+    {
+      "id": 12,
+      "goods_name": "秋芙罗（QIUFULUO） 中年妈妈装冬装加绒加厚休闲保暖长裤中老年人女装时尚宽松高腰微弹小脚裤衣服 黑色加绒 ",
+      "goods_img": "https://m.360buyimg.com/babel/jfs/t1/217599/28/23564/69549/636e8318E943a53b5/a49f279a11027335.jpg.webp",
+      "goods_price": 121,
+      "goods_count": 2,
+      "goods_state": false
+    },
+    {
+      "id": 13,
+      "goods_name": "【全羊绒】蓝诗宝 2022秋季黑科技一线成衣无缝一体半高领100%纯山羊绒衫女简约打底针织内搭小衫 浅驼色 ",
+      "goods_img": "https://m.360buyimg.com/babel/jfs/t1/189862/35/30070/136712/636f1838Ea46de442/ece6e0f2e59c45a4.jpg.webp",
+      "goods_price": 639,
+      "goods_count": 2,
+      "goods_state": false
+    }
+  ]
+}

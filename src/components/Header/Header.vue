@@ -1,9 +1,19 @@
 <template>
-  <div class="header-container">标题</div>
+  <div class="header-container">{{ title }}</div>
 </template>
 
 <script>
-export default {}
+export default {
+  name: 'Header',
+  data() {
+    return {}
+  },
+  props: {
+    title: {
+      default: '购物车'
+    }
+  }
+}
 </script>
 
 <style lang="less" scoped>
